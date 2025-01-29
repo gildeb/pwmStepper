@@ -11,7 +11,7 @@ Two motors can be driven simultaneoulsy.
 # The wiring
 
 <p align="center">
-    <img src="./images/wiring.png" width=600">
+    <img src="./wiring.png" width=600">
 <p/>
 
 # The driver
