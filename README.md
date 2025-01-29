@@ -1,2 +1,2 @@
 # pwmStepper
-Micropythondriver for bipolar stepper motors
+Micropython driver for bipolar stepper motors
